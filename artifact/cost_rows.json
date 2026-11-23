@@ -1,0 +1,270 @@
+{
+  "full_width": {
+    "baseline": {
+      "source_sha256": "bc1b01e5690567b89838e8b950142373e6f627e189c0804c7d9570225dd6a94b",
+      "metadata_count": 12,
+      "rows": [
+        {
+          "item_id": "Mercury_410467",
+          "replicate": 0,
+          "decoded_tokens": 196,
+          "decode_calls": 58
+        },
+        {
+          "item_id": "Mercury_410467",
+          "replicate": 1,
+          "decoded_tokens": 176,
+          "decode_calls": 38
+        },
+        {
+          "item_id": "Mercury_410467",
+          "replicate": 2,
+          "decoded_tokens": 196,
+          "decode_calls": 58
+        },
+        {
+          "item_id": "Mercury_400089",
+          "replicate": 0,
+          "decoded_tokens": 203,
+          "decode_calls": 80
+        },
+        {
+          "item_id": "Mercury_400089",
+          "replicate": 1,
+          "decoded_tokens": 192,
+          "decode_calls": 69
+        },
+        {
+          "item_id": "Mercury_400089",
+          "replicate": 2,
+          "decoded_tokens": 192,
+          "decode_calls": 69
+        },
+        {
+          "item_id": "Mercury_7205870",
+          "replicate": 0,
+          "decoded_tokens": 269,
+          "decode_calls": 114
+        },
+        {
+          "item_id": "Mercury_7205870",
+          "replicate": 1,
+          "decoded_tokens": 270,
+          "decode_calls": 115
+        },
+        {
+          "item_id": "Mercury_7205870",
+          "replicate": 2,
+          "decoded_tokens": 270,
+          "decode_calls": 115
+        },
+        {
+          "item_id": "LEAP__5_10312",
+          "replicate": 0,
+          "decoded_tokens": 262,
+          "decode_calls": 102
+        },
+        {
+          "item_id": "LEAP__5_10312",
+          "replicate": 1,
+          "decoded_tokens": 295,
+          "decode_calls": 135
+        },
+        {
+          "item_id": "LEAP__5_10312",
+          "replicate": 2,
+          "decoded_tokens": 294,
+          "decode_calls": 134
+        }
+      ]
+    },
+    "packed": {
+      "source_sha256": "e5e5cc0ea5860a26c44fa4d93d2b58364dd5575f87139854690cd9ff52bdbec2",
+      "metadata_count": 8,
+      "rows": [
+        {
+          "item_id": "Mercury_410467",
+          "replicate": 0,
+          "decoded_tokens": 196,
+          "decode_calls": 58
+        },
+        {
+          "item_id": "Mercury_410467",
+          "replicate": 3,
+          "decoded_tokens": 183,
+          "decode_calls": 45
+        },
+        {
+          "item_id": "Mercury_400089",
+          "replicate": 0,
+          "decoded_tokens": 203,
+          "decode_calls": 80
+        },
+        {
+          "item_id": "Mercury_400089",
+          "replicate": 3,
+          "decoded_tokens": 179,
+          "decode_calls": 56
+        },
+        {
+          "item_id": "Mercury_7205870",
+          "replicate": 0,
+          "decoded_tokens": 269,
+          "decode_calls": 114
+        },
+        {
+          "item_id": "Mercury_7205870",
+          "replicate": 3,
+          "decoded_tokens": 278,
+          "decode_calls": 123
+        },
+        {
+          "item_id": "LEAP__5_10312",
+          "replicate": 0,
+          "decoded_tokens": 262,
+          "decode_calls": 102
+        },
+        {
+          "item_id": "LEAP__5_10312",
+          "replicate": 3,
+          "decoded_tokens": 302,
+          "decode_calls": 142
+        }
+      ]
+    }
+  },
+  "selective": {
+    "baseline": {
+      "source_sha256": "53b4679244760ebfdc9430ef5e3e5a0c487f1bb5669f29c3ef11b6aa6dc8ddf1",
+      "metadata_count": 12,
+      "rows": [
+        {
+          "item_id": "Mercury_410467",
+          "replicate": 0,
+          "decoded_tokens": 196,
+          "decode_calls": 58
+        },
+        {
+          "item_id": "Mercury_410467",
+          "replicate": 1,
+          "decoded_tokens": 11,
+          "decode_calls": 11
+        },
+        {
+          "item_id": "Mercury_410467",
+          "replicate": 2,
+          "decoded_tokens": 11,
+          "decode_calls": 11
+        },
+        {
+          "item_id": "Mercury_400089",
+          "replicate": 0,
+          "decoded_tokens": 203,
+          "decode_calls": 80
+        },
+        {
+          "item_id": "Mercury_400089",
+          "replicate": 1,
+          "decoded_tokens": 13,
+          "decode_calls": 13
+        },
+        {
+          "item_id": "Mercury_400089",
+          "replicate": 2,
+          "decoded_tokens": 13,
+          "decode_calls": 13
+        },
+        {
+          "item_id": "Mercury_7205870",
+          "replicate": 0,
+          "decoded_tokens": 269,
+          "decode_calls": 114
+        },
+        {
+          "item_id": "Mercury_7205870",
+          "replicate": 1,
+          "decoded_tokens": 26,
+          "decode_calls": 26
+        },
+        {
+          "item_id": "Mercury_7205870",
+          "replicate": 2,
+          "decoded_tokens": 33,
+          "decode_calls": 33
+        },
+        {
+          "item_id": "LEAP__5_10312",
+          "replicate": 0,
+          "decoded_tokens": 262,
+          "decode_calls": 102
+        },
+        {
+          "item_id": "LEAP__5_10312",
+          "replicate": 1,
+          "decoded_tokens": 23,
+          "decode_calls": 23
+        },
+        {
+          "item_id": "LEAP__5_10312",
+          "replicate": 2,
+          "decoded_tokens": 34,
+          "decode_calls": 34
+        }
+      ]
+    },
+    "packed": {
+      "source_sha256": "22917a33235990d0b1f84732d738f2a7418a093d6be87c9bb7f10448db2460cc",
+      "metadata_count": 8,
+      "rows": [
+        {
+          "item_id": "Mercury_410467",
+          "replicate": 0,
+          "decoded_tokens": 196,
+          "decode_calls": 58
+        },
+        {
+          "item_id": "Mercury_410467",
+          "replicate": 3,
+          "decoded_tokens": 22,
+          "decode_calls": 22
+        },
+        {
+          "item_id": "Mercury_400089",
+          "replicate": 0,
+          "decoded_tokens": 203,
+          "decode_calls": 80
+        },
+        {
+          "item_id": "Mercury_400089",
+          "replicate": 3,
+          "decoded_tokens": 26,
+          "decode_calls": 26
+        },
+        {
+          "item_id": "Mercury_7205870",
+          "replicate": 0,
+          "decoded_tokens": 269,
+          "decode_calls": 114
+        },
+        {
+          "item_id": "Mercury_7205870",
+          "replicate": 3,
+          "decoded_tokens": 59,
+          "decode_calls": 59
+        },
+        {
+          "item_id": "LEAP__5_10312",
+          "replicate": 0,
+          "decoded_tokens": 262,
+          "decode_calls": 102
+        },
+        {
+          "item_id": "LEAP__5_10312",
+          "replicate": 3,
+          "decoded_tokens": 57,
+          "decode_calls": 57
+        }
+      ]
+    }
+  }
+}

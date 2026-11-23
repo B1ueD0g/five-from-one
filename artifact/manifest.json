@@ -1,0 +1,8 @@
+{
+  "baseline.jsonl.gz": "f176eba477c5fb357f26b9e70162419019ab8a9374752300f44614dd4697c04e",
+  "gold.json": "a175bfaa5a41d7217a8dc9a167cebd3b6b6ecafa4123174865a27b0be86b1b3e",
+  "repeat.jsonl.gz": "64d76c70a156be550f6c602a75a2c7a9789920a5c52a461bc3a6c3dc8a0cd24c",
+  "reverse.jsonl.gz": "c687ed9645b1d348d498d2d920dab80523168c2343053d0ca1f32137e28ac78b",
+  "schedule.json": "6c432def88bf9fbb555ff598a7b0c97be2244dbc02f8858d9189d901697bc72c",
+  "serial.jsonl.gz": "5067d63c2458db7d47040e0f6e7dff7a3d3284cc970fec768848deb8f6584b03"
+}
