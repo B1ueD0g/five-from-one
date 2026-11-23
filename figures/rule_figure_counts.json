@@ -1,0 +1,240 @@
+{
+  "panels": {
+    "parallel": {
+      "cells": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          0,
+          0,
+          0,
+          5
+        ],
+        [
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          0,
+          0,
+          0,
+          0
+        ]
+      ],
+      "n_pairs": 30,
+      "totals": [
+        2,
+        2,
+        0,
+        8
+      ]
+    },
+    "serial": {
+      "cells": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          0,
+          0,
+          0,
+          4
+        ],
+        [
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          6,
+          6,
+          4,
+          6
+        ],
+        [
+          0,
+          0,
+          1,
+          5
+        ],
+        [
+          0,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          6,
+          2
+        ],
+        [
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0
+        ]
+      ],
+      "n_pairs": 120,
+      "totals": [
+        10,
+        10,
+        11,
+        22
+      ]
+    }
+  },
+  "question_ids": [
+    "GSM8K-test-0511",
+    "GSM8K-test-0383",
+    "GSM8K-test-0745",
+    "GSM8K-test-0070",
+    "GSM8K-test-0211",
+    "GSM8K-test-0717",
+    "GSM8K-test-0680",
+    "GSM8K-test-0222",
+    "GSM8K-test-0203",
+    "GSM8K-test-0664",
+    "GSM8K-test-1201",
+    "GSM8K-test-0324"
+  ],
+  "release_counts": [
+    [
+      [
+        43,
+        7,
+        5
+      ],
+      280,
+      [
+        12,
+        213
+      ]
+    ],
+    [
+      [
+        31,
+        1,
+        3
+      ],
+      200,
+      [
+        4,
+        153
+      ]
+    ],
+    [
+      [
+        1,
+        7,
+        2
+      ],
+      120,
+      [
+        9,
+        114
+      ]
+    ]
+  ],
+  "rules": [
+    "strict_three",
+    "quorum_three",
+    "strict_four",
+    "unique_plurality"
+  ],
+  "source_sha256": {
+    "arc": "ff7bd564787f3227339c453646fd98f94c2dd63d2b6560eb60a935d5fe9073d9",
+    "gold": "a175bfaa5a41d7217a8dc9a167cebd3b6b6ecafa4123174865a27b0be86b1b3e",
+    "labels": "53b48fd2671574c067c9c74af6377eec1d1b10dc5ac1d7c86e8d33800408b488",
+    "parallel": "b35bffe43602a7a447fa7af53b1ebf9eda02bcb97fa67c3a07a181cf68c541b6",
+    "registry": "6c432def88bf9fbb555ff598a7b0c97be2244dbc02f8858d9189d901697bc72c",
+    "rescore": "66a9ce78dfd1988f14976e09f127312b35e7626db39d1feafc86e52c78f9d5ac",
+    "rescore_lock": "8b3a258eb200a02b5fffe286557b8de0f005dd672e004acc8a9dfd249ece2788",
+    "rescore_registration": "76b3724eedb42b8128b98efd49cfccf2602017da6631b0630225ad73f878f4e8",
+    "rescore_script": "b7b0762cf51ffbee4333df0cc6c5d6e67b1d1f6cb8442f194615bc2bdc4987ef",
+    "serial": "ee45d4b353e031232a38b30b3da4e68b9827e4fa817348616ddedddd925a8a5d"
+  }
+}

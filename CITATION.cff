@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Please cite this software artifact when using the associated code or data checks."
+type: software
+title: "Five from One? A Replay Audit of Batched LLM Sampling"
+authors:
+  - given-names: Songbo
+    family-names: Bu
+repository-code: "https://github.com/B1ueD0g/five-from-one"
+license: MIT

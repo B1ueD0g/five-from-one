@@ -1,0 +1,110 @@
+{
+  "source_sha256": {
+    "分析.json": "53b48fd2671574c067c9c74af6377eec1d1b10dc5ac1d7c86e8d33800408b488",
+    "items.json": "6c432def88bf9fbb555ff598a7b0c97be2244dbc02f8858d9189d901697bc72c",
+    "answer_key.json": "a175bfaa5a41d7217a8dc9a167cebd3b6b6ecafa4123174865a27b0be86b1b3e",
+    "full_parallel_repeat.json": "e92c430e304604af99d342b5fa34c6b5caad234ff971abb829070e6afe392ba6"
+  },
+  "witness": {
+    "item": "GSM8K-test-0680",
+    "anchor": 65063,
+    "mode": "C",
+    "reference": "576",
+    "original": [
+      "576",
+      "576",
+      "576",
+      "576",
+      "576"
+    ],
+    "product": [
+      "576",
+      "16",
+      "16",
+      "16",
+      "16"
+    ],
+    "release": [
+      "576",
+      "16"
+    ],
+    "status": [
+      "correct",
+      "incorrect"
+    ],
+    "donors": [
+      {
+        "slot": 0,
+        "batch": 65068,
+        "row": 3,
+        "source_batches": [
+          65063,
+          65062,
+          65061,
+          65060,
+          65064
+        ]
+      },
+      {
+        "slot": 1,
+        "batch": 65069,
+        "row": 4,
+        "source_batches": [
+          65064,
+          65063,
+          65062,
+          65061,
+          65060
+        ]
+      },
+      {
+        "slot": 2,
+        "batch": 65065,
+        "row": 0,
+        "source_batches": [
+          65060,
+          65064,
+          65063,
+          65062,
+          65061
+        ]
+      },
+      {
+        "slot": 3,
+        "batch": 65066,
+        "row": 1,
+        "source_batches": [
+          65061,
+          65060,
+          65064,
+          65063,
+          65062
+        ]
+      },
+      {
+        "slot": 4,
+        "batch": 65067,
+        "row": 2,
+        "source_batches": [
+          65062,
+          65061,
+          65060,
+          65064,
+          65063
+        ]
+      }
+    ]
+  },
+  "control": {
+    "questions": 3,
+    "mode": "B",
+    "full_tape": [
+      0,
+      150
+    ],
+    "same_own_tape": [
+      3,
+      75
+    ]
+  }
+}
